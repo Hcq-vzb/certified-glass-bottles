@@ -1,0 +1,1 @@
+﻿$(document).ready(function(){var targetPath="/bottle-cap/";if(window.location.pathname===targetPath){$(".pro-main").addClass('bottle-cap')}});

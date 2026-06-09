@@ -1,0 +1,20 @@
+﻿@media (min-width:769px){
+  .kche-t176.wmkc-pictrue-box .kche-t176-list{
+    justify-content:center;
+    margin-top:24px;
+  }
+  .kche-t176.wmkc-pictrue-box .kche-t176-list .kche-t176-item{
+    width:26%;
+    margin:0 15px;
+  }
+}
+.kche-t176.wmkc-pictrue-box .kche-t176-list .kche-t176-item{border-color:var(--fontcolor)}
+.wmkc-pic-box .wmkc-team{margin-bottom:16px}
+.wmkc-team img{
+  width:100%;
+  height:auto;
+  max-width:100%;
+  display:block;
+}
+/*.kche-t114 .kche-t114-title,.kche-t107 .kche-t107-title,.kche-t176 h5{border: 1px #000 solid;display: inline-block;padding: 10px;}*/
+/*.kche-t107 .kche-t107-into,.kche-t114 .kche-t114-into,.kche-t176 .kche-t176-into{display: none;}*/

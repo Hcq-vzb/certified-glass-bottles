@@ -1,0 +1,18 @@
+/* Static local deployment: show images without lazy-load JS */
+img.lazy,.lazy-wrap img{opacity:1!important;visibility:visible!important}
+.lazy-load{display:none!important}
+
+/* Inner pages: keep header opaque so banner artwork cannot bleed through the logo */
+@media (min-width:1025px){
+  body:not(.index) header{
+    background:#1a1414!important;
+    box-shadow:1px 2px 5px rgba(0,0,0,.05);
+  }
+  body:not(.index) .head-logo a{
+    position:relative;
+    z-index:1;
+  }
+  body:not(.index) .head-logo a img{
+    filter:none!important;
+  }
+}

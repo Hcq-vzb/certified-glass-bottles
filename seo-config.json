@@ -1,0 +1,41 @@
+{
+  "site_url": "https://www.certifiedglassbottles.com",
+  "old_domain": "www.spiritsglass.com",
+  "brand": "KIWL",
+  "brand_full": "Jiangsu KIWL Machinery Manufacturing Group Co., Ltd.",
+  "homepage": {
+    "title": "Spirits Glass Bottles, Caps & Closures | KIWL Packaging Manufacturer",
+    "description": "KIWL supplies wholesale glass liquor bottles, aluminium screw caps, stoppers and labels for spirits, wine and beverage brands. Exported to 70+ countries. Request a factory quote today.",
+    "keywords": "spirits glass bottles, liquor bottle caps, aluminium screw caps, wine bottle closures, bottle stoppers, wholesale packaging manufacturer, KIWL"
+  },
+  "blog_index": {
+    "title": "Bottle Caps & Packaging Blog | Industry Guides - KIWL",
+    "description": "Expert articles on wine screw caps, spirits aluminium closures, glass bottles and packaging trends. Tips for distilleries, wineries and beverage brands from KIWL.",
+    "keywords": "bottle cap blog, wine screw cap guide, spirits packaging, glass bottle tips, KIWL"
+  },
+  "templates": {
+    "product_title": "{name} | Wholesale Manufacturer - KIWL",
+    "product_description": "Wholesale {name_lower} from KIWL, a China-based spirits and beverage packaging manufacturer. Custom OEM/ODM, competitive factory pricing, export to 70+ countries.",
+    "product_keywords": "{name_lower}, wholesale {name_lower}, China manufacturer, KIWL",
+    "category_title": "{name} Wholesale | Custom Packaging - KIWL",
+    "category_description": "Browse wholesale {name_lower} from KIWL. Professional manufacturer and exporter of spirits, wine and beverage packaging. Bulk orders, custom branding, worldwide shipping.",
+    "category_keywords": "{name_lower}, wholesale {name_lower}, China supplier, KIWL",
+    "showroom_title": "{name} | Spirits Glass Packaging - KIWL",
+    "showroom_description": "Explore {name_lower} solutions from KIWL. Wholesale glass bottles, caps and closures for liquor, wine and beverage brands worldwide.",
+    "showroom_keywords": "{name_lower}, spirits glass packaging, wholesale, KIWL",
+    "blog_title_suffix": " | KIWL Packaging Blog",
+    "blog_description_suffix": " Learn from KIWL, a leading spirits and beverage packaging manufacturer in China."
+  },
+  "primary_keywords": [
+    "spirits glass bottles",
+    "liquor bottle caps",
+    "aluminium screw caps",
+    "wine bottle screw caps",
+    "bottle stoppers",
+    "ROPP caps",
+    "GPI caps",
+    "glass liquor bottles wholesale",
+    "spirits bottle closures",
+    "custom bottle packaging"
+  ]
+}

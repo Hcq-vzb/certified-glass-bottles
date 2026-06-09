@@ -1,0 +1,11 @@
+HTML pages: 1365
+Missing local images: 0
+Absolute /uploads/ src: 0
+Pages without static-local.css: 5
+Page CSS with negative margin-top: 0
+
+=== Missing images (first 30) ===
+
+=== Absolute upload paths (first 20) ===
+
+=== CSS negative margins (page-specific) ===

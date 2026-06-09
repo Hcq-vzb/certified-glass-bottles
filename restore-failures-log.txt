@@ -1,0 +1,206 @@
+Retrying 184 failed paths via live HTML
+[fail-page] https://www.spiritsglass.com/about-liquorpac.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/about-us.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/contact-us.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/favicon.jpg
+[no-url] Content/uploads/202099770/2020042616515191ad9720feb54518b50f4b0c5082997d.jpg
+[no-html] uploads/11134/b5747.jpg -> The read operation timed out
+[no-url] uploads/11134/banner/202412230202311eb048d3b.jpg
+[no-url] uploads/11134/banner/20241226025204bd43a22fe.jpg
+[fail-page] https://www.spiritsglass.com/sustainability.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/202412260252439156022fe.jpg
+[fail-page] https://www.spiritsglass.com/factory.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/202412260254004aada22fe.jpg
+[fail-page] https://www.spiritsglass.com/custom-lid-label-paper-box.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/2024122602561500b8822fe.jpg
+[fail-page] https://www.spiritsglass.com/bottle-stopper/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/bottle-stopper/page-2/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/bottle-stopper/page-3/index.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/202605130414073de43d2ab.png
+[fail-page] https://www.spiritsglass.com/bottle-cap/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/bottle-cap/page-10/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/bottle-cap/page-11/index.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/20260514025559046677d97.jpg
+[fail-page] https://www.spiritsglass.com/metal-label/index.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/2026051402565326b4e7d97.jpg
+[fail-page] https://www.spiritsglass.com/liquor-bottles/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/liquor-bottles/page-10/index.html (HTTP Error 404: Not Found)
+[fail-page] https://www.spiritsglass.com/liquor-bottles/page-11/index.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/banner/20260514025751901ac7d97.jpg
+[no-url] uploads/11134/news/20250221093756746852812.png
+[no-url] uploads/11134/news/20250221094212cd87e2812.png
+[no-url] uploads/11134/page/20250227092653a5687e10f.jpg
+[no-url] uploads/11134/page/2025031214451956b7ee10f.jpg
+[no-url] uploads/11134/page/202508131517404671c189f.jpg
+[no-url] uploads/11134/page/202508131535301b6f5e10f.jpg
+[no-url] uploads/11134/page/20250818140522e53d9189f.jpg
+[no-url] uploads/11134/page/20250818145318570da189f.jpg
+[no-url] uploads/11134/page/202508191021261c5072812.jpg
+[fail-page] https://www.spiritsglass.com/decorating-finishing.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/page/20260108093455a4befc20b.jpg
+[no-url] uploads/11134/page/2026010809354260b782812.jpg
+[no-url] uploads/11134/page/2026010810114014eb52812.jpg
+[no-url] uploads/11134/page/202601081020260d3992812.jpg
+[no-url] uploads/11134/page/20260108102155de7802812.webp
+[no-url] uploads/11134/page/2026010810235150e722812.png
+[no-url] uploads/11134/page/20260123135828056d1189f.jpg
+[no-url] uploads/11134/page/20260123153206e3a3ce10f.jpg
+[fail-page] https://www.spiritsglass.com/paper-box/index.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/page/20260515140002c185fe10f.jpg
+[no-url] uploads/11134/page/p202412231629516ffd1f2b2.jpg
+[fail-page] https://www.spiritsglass.com/in-house-molding.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/page/p202412261008511db862812.jpg
+[no-url] uploads/11134/page/p2024122610085319e932812.jpg
+[no-url] uploads/11134/page/p20241226100855236c82812.jpg
+[fail-page] https://www.spiritsglass.com/packaging.html (HTTP Error 404: Not Found)
+[no-url] uploads/11134/page/p2026010414274787460aa5d.jpg
+[no-url] uploads/11134/products/202501151602074534f2812.jpg
+[no-url] uploads/11134/products/202502180921303c943189f.jpg
+[no-url] uploads/11134/products/20250218132922bbb47e10f.jpg
+[no-url] uploads/11134/products/2025022115482073197e10f.jpg
+[no-url] uploads/11134/products/20250222140047b1f45189f.png
+[no-url] uploads/11134/products/20250226163138fed6b189f.jpg
+[no-url] uploads/11134/products/202502271040599a190189f.jpg
+[no-url] uploads/11134/products/2025022713264614e58e10f.jpg
+[no-url] uploads/11134/products/20250228105714ee1e2189f.jpg
+[no-url] uploads/11134/products/20250304165054d6877189f.jpg
+[no-url] uploads/11134/products/2025030615504074f50189f.jpg
+[no-url] uploads/11134/products/20250306160854bd771189f.png
+[no-url] uploads/11134/products/20250307093323d784be10f.jpg
+[no-url] uploads/11134/products/20250307102629aaf38e10f.jpg
+[no-url] uploads/11134/products/202503071116263a444189f.jpg
+[no-url] uploads/11134/products/202503111555294cdb1189f.jpg
+[no-url] uploads/11134/products/2025031209373058ec4189f.jpg
+[no-url] uploads/11134/products/2025031210114705c9be10f.jpg
+[no-url] uploads/11134/products/2025031215291562f8ee10f.jpg
+[no-url] uploads/11134/products/20250313141341f4752e10f.jpg
+[no-url] uploads/11134/products/202503181451018bbc12812.jpg
+[no-url] uploads/11134/products/20250323095547889ad189f.jpg
+[no-url] uploads/11134/products/20250323105609f65b0189f.jpg
+[no-url] uploads/11134/products/202504101012438b8ad2812.jpg
+[no-url] uploads/11134/products/20250620150129c23fae10f.jpg
+[no-url] uploads/11134/products/20250621155237d4c7de10f.jpg
+[no-url] uploads/11134/products/2025062310343020491189f.jpg
+[no-url] uploads/11134/products/2025062714262071eed189f.jpg
+[no-url] uploads/11134/products/20250724134617898286208.jpg
+[no-url] uploads/11134/products/2025072416062038fe72812.jpg
+[no-url] uploads/11134/products/2025072417522267ad3e10f.png
+[no-url] uploads/11134/products/202508041413141637be10f.jpg
+[no-url] uploads/11134/products/20250804153243101805595.jpg
+[no-url] uploads/11134/products/2025080514221398af2e10f.jpg
+[no-url] uploads/11134/products/202508051422270a5e9e10f.jpg
+[no-url] uploads/11134/products/20250805142521e9b20189f.jpg
+[no-url] uploads/11134/products/2025080514361326cf18657.jpg
+[no-url] uploads/11134/products/202508051437292fa52e10f.jpg
+[no-url] uploads/11134/products/202508051620244ebf0e10f.jpg
+[no-url] uploads/11134/products/202508051636465f3c52812.jpg
+[no-url] uploads/11134/products/2025080516370357ff52812.jpg
+[no-url] uploads/11134/products/2025080516483039a945c07.jpg
+[no-url] uploads/11134/products/20250806144445d6b68e10f.jpg
+[no-url] uploads/11134/products/2025080710453890ae4237a.jpg
+[no-url] uploads/11134/products/202508080948317cf01e10f.jpg
+[no-url] uploads/11134/products/2025081110282960c2a2812.jpg
+[no-url] uploads/11134/products/2025081110294969b18e10f.jpg
+[no-url] uploads/11134/products/202508121002088a64f2812.jpg
+[no-url] uploads/11134/products/2025081210023510d192812.jpg
+[no-url] uploads/11134/products/20250812102431ad8d8189f.jpg
+[no-url] uploads/11134/products/20250813153006d13d22812.jpg
+[no-url] uploads/11134/products/20250813154048cf5e85c07.jpg
+[no-url] uploads/11134/products/202508140915289562e189f.jpg
+[no-url] uploads/11134/products/20250814092521f5dcae10f.jpg
+[no-url] uploads/11134/products/20250814094241e44a9189f.jpg
+[no-url] uploads/11134/products/2025081411023257789189f.jpg
+[no-url] uploads/11134/products/20250814110642bd634189f.jpg
+[no-url] uploads/11134/products/202508151008367a1f5189f.jpg
+[no-url] uploads/11134/products/2025081510153640c522812.jpg
+[no-url] uploads/11134/products/202508151048085b704189f.jpg
+[no-url] uploads/11134/products/2025081511030986428e10f.jpg
+[no-url] uploads/11134/products/2025081511032028115e10f.jpg
+[no-url] uploads/11134/products/20250815155546a4e87189f.jpg
+[no-url] uploads/11134/products/202508161416456f4192812.jpg
+[no-url] uploads/11134/products/2025081614242377123189f.jpg
+[no-url] uploads/11134/products/20250816143255de094e10f.jpg
+[no-url] uploads/11134/products/20250818091011be25b189f.jpg
+[no-url] uploads/11134/products/2025081809112462079150a.jpg
+[no-url] uploads/11134/products/20250818091156d25e3e10f.jpg
+[no-url] uploads/11134/products/20250818092115fa2f1189f.jpg
+[no-url] uploads/11134/products/2025081809225943411e10f.jpg
+[no-url] uploads/11134/products/202508180934456206b189f.jpg
+[no-url] uploads/11134/products/20250818095025a6a1e2812.jpg
+[no-url] uploads/11134/products/20250818095644ed7d5189f.jpg
+[no-url] uploads/11134/products/202508180958332c7a1e10f.jpg
+[no-url] uploads/11134/products/20250818095843ff854e10f.jpg
+[no-url] uploads/11134/products/20250818101433dd382189f.jpg
+[no-url] uploads/11134/products/202508181020001adffe10f.jpg
+[no-url] uploads/11134/products/2025081810220602f34e10f.jpg
+[no-url] uploads/11134/products/2025081810221777d70e10f.jpg
+[no-url] uploads/11134/products/20250818102410bd255e10f.jpg
+[no-url] uploads/11134/products/2025081810273322b53e10f.jpg
+[no-url] uploads/11134/products/20250818102744bdeabe10f.jpg
+[no-url] uploads/11134/products/2025081810354417413189f.jpg
+[no-url] uploads/11134/products/20250818105315abdd0e10f.jpg
+[no-url] uploads/11134/products/202508181055439be61189f.jpg
+[no-url] uploads/11134/products/2025081811041767946e10f.jpg
+[no-url] uploads/11134/products/20250818110924da3ac189f.jpg
+[no-url] uploads/11134/products/20250818133839ac186e10f.jpg
+[no-url] uploads/11134/products/2025081814080996e96a0bf.jpg
+[no-url] uploads/11134/products/20250818152056d425b189f.jpg
+[no-url] uploads/11134/products/20250818153729291c9e10f.jpg
+[no-url] uploads/11134/products/20250818154519c08b5189f.jpg
+[no-url] uploads/11134/products/202508181650364e428189f.jpg
+[no-url] uploads/11134/products/202508181710351c876e10f.jpg
+[no-url] uploads/11134/products/20250819094827e12d7e10f.jpg
+[no-url] uploads/11134/products/20250819095219368f9e10f.jpg
+[no-url] uploads/11134/products/20250819095337ed70d189f.jpg
+[no-url] uploads/11134/products/2025081910044134fc2e10f.jpg
+[no-url] uploads/11134/products/20250819100930c3cb8e10f.jpg
+[no-url] uploads/11134/products/2025081910234161ce8e10f.jpg
+[no-url] uploads/11134/products/20250819104656e183be10f.jpg
+[no-url] uploads/11134/products/202508191052257c529189f.jpg
+[no-url] uploads/11134/products/2025081913514237920189f.jpg
+[no-url] uploads/11134/products/20250819141207913b5150a.jpg
+[no-url] uploads/11134/products/20250819141231347c3e10f.jpg
+[no-url] uploads/11134/products/20250819142638cd50ce10f.jpg
+[no-url] uploads/11134/products/202508191610112e21a189f.jpg
+[no-url] uploads/11134/products/2025082009135330265e10f.jpg
+[no-url] uploads/11134/products/20250820095022fb4d6e10f.jpg
+[no-url] uploads/11134/products/202508200954459bccee10f.jpg
+[no-url] uploads/11134/products/202508201005579e01ae10f.jpg
+[no-url] uploads/11134/products/2025082010060887acde10f.jpg
+[no-url] uploads/11134/products/20250820103742c85ac189f.jpg
+[no-url] uploads/11134/products/2025082014123602a27189f.jpg
+[no-url] uploads/11134/products/202508201704545c4b8e10f.jpg
+[no-url] uploads/11134/products/20250821095155d2e76189f.jpg
+[no-url] uploads/11134/products/202508211025353ff3be10f.jpg
+[no-url] uploads/11134/products/20250821102545bd2b2e10f.jpg
+[no-url] uploads/11134/products/2025082110375170a23e10f.jpg
+[no-url] uploads/11134/products/202508211037597415de10f.jpg
+[no-url] uploads/11134/products/20250915173107da0fbe10f.jpg
+[no-url] uploads/11134/products/202601271329461056fe10f.jpg
+[no-url] uploads/11134/products/202601271333347c04f2812.jpg
+[no-url] uploads/11134/products/20260127133733643fa189f.jpg
+[no-url] uploads/11134/products/202601271339352b339c20b.jpg
+[no-url] uploads/11134/products/20260127133948c83a7c20b.jpg
+[no-url] uploads/11134/products/20260127154825e3c94189f.jpg
+[no-url] uploads/11134/products/20260127155059ed9a6189f.jpg
+[no-url] uploads/11134/products/20260127155730e45c6189f.jpg
+[no-url] uploads/11134/products/20260127160617c9f63189f.jpg
+[no-url] uploads/11134/products/2026012916563362d32189f.jpg
+[no-url] uploads/11134/products/20260130091841b181be10f.jpg
+[no-url] uploads/11134/products/20260130100559468bce10f.jpg
+[no-url] uploads/11134/products/202601301007039d659c20b.jpg
+[no-url] uploads/11134/products/20260130102718c472f189f.jpg
+[no-url] uploads/11134/products/2026013010391794241189f.jpg
+[no-url] uploads/11134/products/202601301055016bd30189f.jpg
+[no-url] uploads/11134/products/202601301102173c99d189f.jpg
+[no-url] uploads/11134/products/p20250625163042f594b.png
+[no-url] uploads/11134/products/p202506251657327a7e2.png
+[no-url] uploads/11134/products/p20250627153844e63592812.png
+[no-url] uploads/11134/products/p20260409160605266662812.jpg
+[no-url] uploads/30775/products/202501071604312333b2812.jpg
+[no-url] uploads/30775/products/2025012014460333e8f189f.jpg
+[no-url] uploads/30775/products/20250122132650f41dae10f.jpg
+[no-url] uploads/30775/products/202503051452020a6cf189f.jpg
+[no-url] uploads/30775/products/2025030516011729317189f.jpg
+[no-url] uploads/30775/products/20250306133211e6073e10f.jpg
+Done: ok=0, miss=184

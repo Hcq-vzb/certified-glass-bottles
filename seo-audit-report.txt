@@ -1,0 +1,76 @@
+SEO OPTIMIZATION REPORT - https://www.certifiedglassbottles.com
+==================================================
+
+--- BEFORE ---
+Total HTML pages: 1365
+Old domain (www.spiritsglass.com) references: 1360
+HTTrack comments remaining: 0
+LIQUORPAC brand refs: 0
+Missing canonical: 5
+Relative canonical URLs: 0
+Titles over 60 chars: 651
+Descriptions under 50 chars: 34
+Keyword-stuffed titles (Manufacturers Suppliers Factory): 1
+
+=== Google Algorithm Compliance Notes ===
+- meta keywords: Google ignores since 2009; kept for Bing/Yandex only
+- Title/description/structured data: primary ranking signals
+- Absolute canonical URLs: required to avoid duplicate content
+- JSON-LD Organization/Product: helps rich results
+- Blog thin meta descriptions: improved where possible
+
+Target site URL: https://www.certifiedglassbottles.com
+Primary keywords: spirits glass bottles, liquor bottle caps, aluminium screw caps, wine bottle screw caps, bottle stoppers...
+
+--- AFTER ---
+Total HTML pages: 1365
+Old domain (www.spiritsglass.com) references: 0
+HTTrack comments remaining: 0
+LIQUORPAC brand refs: 0
+Missing canonical: 5
+Relative canonical URLs: 0
+Titles over 60 chars: 650
+Descriptions under 50 chars: 34
+Keyword-stuffed titles (Manufacturers Suppliers Factory): 0
+
+=== Google Algorithm Compliance Notes ===
+- meta keywords: Google ignores since 2009; kept for Bing/Yandex only
+- Title/description/structured data: primary ranking signals
+- Absolute canonical URLs: required to avoid duplicate content
+- JSON-LD Organization/Product: helps rich results
+- Blog thin meta descriptions: improved where possible
+
+Target site URL: https://www.certifiedglassbottles.com
+Primary keywords: spirits glass bottles, liquor bottle caps, aluminium screw caps, wine bottle screw caps, bottle stoppers...
+
+--- CHANGES ---
+HTML files modified: 1360
+{
+  "domain": 1360,
+  "static-page-seo": 6,
+  "blog-seo": 200,
+  "blog-index-seo": 1,
+  "product-seo": 527,
+  "homepage-seo": 1,
+  "category-seo": 1,
+  "json-ld-sync": 1,
+  "news-seo": 14,
+  "showroom-seo": 494,
+  "showroomlist-seo": 9,
+  "robots.txt": 1,
+  "sitemap.xml": 1
+}
+
+--- KEYWORD STRATEGY ---
+Tier 1 (Homepage): spirits glass bottles, liquor bottle caps, aluminium screw caps
+Tier 2 (Categories): bottle cap, bottle stopper, liquor bottles, metal label
+Tier 3 (Products): long-tail product names + wholesale + manufacturer
+Tier 4 (Blog): question-based queries linking to product categories
+
+--- RECOMMENDED NEXT STEPS ---
+1. Submit sitemap in Google Search Console for https://www.certifiedglassbottles.com
+2. If www.spiritsglass.com is used for staging, block it from indexing (noindex or robots disallow)
+3. Add unique product descriptions (avoid duplicate factory boilerplate in body)
+4. Compress images and add width/height attributes for Core Web Vitals
+5. Consider noindex for /showroom/ tag pages if they duplicate product categories
+6. Build backlinks from packaging industry directories

@@ -1,0 +1,163 @@
+﻿.protype-main .pro-maylink{display:none;}
+.pagesbanner .pagesbanner-animate{max-width:1200px;z-index:10;top:50%}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner{top:45%}
+.pagesbanner .pagesbanner-animate .p1{font-size:35px}
+.pagesbanner .pagesbanner-animate .p2{margin:15px auto 0;max-width:1100px;}
+@media (max-width:1280px){.pagesbanner .pagesbanner-animate .p1{font-size:30px}
+.pagesbanner .pagesbanner-animate .p2{margin:10px auto 0;font-size:var(--fontsize16)}}
+@media (max-width:1024px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize24)}
+.pagesbanner .pagesbanner-animate .p2{margin:10px auto 0;font-size:var(--fontsize14)}}
+@media (max-width:768px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize20)}
+.pagesbanner .pagesbanner-animate .p2{font-size:var(--fontsize12)}}
+@media (max-width:550px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize17)}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{display:none}}
+
+.pagesbanner .pagesbanner-animate.metal-label{text-align:left;left:43%;width:fit-content}
+.pagesbanner .pagesbanner-animate.metal-label{padding-left:0}
+.pagesbanner .pagesbanner-animate.metal-label .p1{font-size:5vw}
+.pagesbanner .pagesbanner-animate.metal-label .p2{font-size:2vw;margin-left:0}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:50px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:21px}
+@media (max-width:1500px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:44px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:20px}}
+@media (max-width:1366px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:38px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:18px}}
+@media (max-width:1200px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:30px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:16px}}
+@media (max-width:768px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:25px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:14px}}
+@media (max-width:500px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:20px}}
+.pagesbanner .pagesbanner-animate.bottle-cap-banner-text{max-width:100%}
+.bottle-cap-banner-text{position: absolute;top:0;left:0;width:100%;height:100%;z-index:5;display:flex;justify-content: center;align-items: center;}
+.bottle-cap-banner-text .l-wrap{max-width:1400px;border:1px solid #fff;padding:5% 20px;}
+.bottle-cap-banner-text .bottle-cap-banner-title{text-align: center;font-size:40px;color:#fff;font-weight:var(--fontbold7);}
+.bottle-cap-banner-text .bottle-cap-banner-line{width:200px;height:1px;background: #fff;display: block;margin:2% auto;}
+.bottle-cap-banner-text .bottle-cap-banner-des{text-align: center;font-size:20px;color:#fff;}
+.bottle-cap-banner-text .bottle-cap-banner-txt{font-size:20px}
+.bottle-cap-banner-text .bottle-cap-banner-btn{margin-top:30px;display:flex;justify-content:center}
+.bottle-cap-banner-text .bottle-cap-banner-btn a{font-size:20px;border:1px solid #fff;padding:8px 35px}
+.bottle-cap-banner-text .bottle-cap-banner-btn a:hover{border-color:var(--color)}
+@media (max-width:1600px){.bottle-cap-banner-text .l-wrap{max-width:80%;}
+.bottle-cap-banner-text .bottle-cap-banner-title{font-size:2.5vw;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des{font-size:1.2vw;}
+.bottle-cap-banner-text .bottle-cap-banner-btn{margin-top:2vw;}
+.bottle-cap-banner-text .bottle-cap-banner-btn a{font-size:1.2vw;padding:.6vw 3vw}}
+@media (max-width:768px){.bottle-cap-banner-text .l-wrap{max-width:90%;padding:15px}
+.bottle-cap-banner-text .bottle-cap-banner-title{font-size:22px;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des{font-size:13px;}
+.bottle-cap-banner-text .bottle-cap-banner-btn{display:none}}
+@media (max-width:550px){.bottle-cap-banner-text .bottle-cap-banner-title{font-size:16px;}
+.bottle-cap-banner-text .l-wrap{padding:10px;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des,.bottle-cap-banner-text .bottle-cap-banner-line{display: none;}}
+.swiper-slide>a::after{display:none}
+.pagesbanner .pagesbanner-animate.paper-box-banner{text-align:left;left:34%;width:fit-content}
+.pagesbanner .pagesbanner-animate.paper-box-banner .p1{font-size:2.5vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .p2{margin-left:10px;font-size:1.5vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .desc{font-size:1.2vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .desc span{margin-left:15px}
+
+.bottle-cap .kche-t125 .kche-t125-info{width:48%;padding-right:0}
+.bottle-cap .kche-t125 .kche-t125-img{width:48%}
+@media (max-width:768px){.bottle-cap .kche-t125 .kche-t125-info{width:100%}
+.bottle-cap .kche-t125 .kche-t125-img{width:100%}
+}
+
+.protype-main .pro-maylink{display:none;}
+.pagesbanner .pagesbanner-animate{max-width:1200px;z-index:10;top:50%}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner{top:45%}
+.pagesbanner .pagesbanner-animate .p1{font-size:35px}
+.pagesbanner .pagesbanner-animate .p2{margin:15px auto 0;max-width:1100px;}
+@media (max-width:1280px){.pagesbanner .pagesbanner-animate .p1{font-size:30px}
+.pagesbanner .pagesbanner-animate .p2{margin:10px auto 0;font-size:var(--fontsize16)}}
+@media (max-width:1024px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize24)}
+.pagesbanner .pagesbanner-animate .p2{margin:10px auto 0;font-size:var(--fontsize14)}}
+@media (max-width:768px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize20)}
+.pagesbanner .pagesbanner-animate .p2{font-size:var(--fontsize12)}}
+@media (max-width:550px){.pagesbanner .pagesbanner-animate .p1{font-size:var(--fontsize17)}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{display:none}}
+
+.pagesbanner .pagesbanner-animate.metal-label{text-align:left;left:43%;width:fit-content}
+.pagesbanner .pagesbanner-animate.metal-label{padding-left:0}
+.pagesbanner .pagesbanner-animate.metal-label .p1{font-size:5vw}
+.pagesbanner .pagesbanner-animate.metal-label .p2{font-size:2vw;margin-left:0}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:50px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:21px}
+@media (max-width:1500px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:44px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:20px}}
+@media (max-width:1366px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:38px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:18px}}
+@media (max-width:1200px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:30px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:16px}}
+@media (max-width:768px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:25px}
+.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p2{font-size:14px}}
+@media (max-width:500px){.pagesbanner .pagesbanner-animate.bottle-stopper-banner .p1{font-size:20px}}
+.pagesbanner .pagesbanner-animate.bottle-cap-banner-text{max-width:100%}
+.bottle-cap-banner-text{position: absolute;top:0;left:0;width:100%;height:100%;z-index:5;display:flex;justify-content: center;align-items: center;}
+.bottle-cap-banner-text .l-wrap{max-width:1400px;border:1px solid #fff;padding:5% 20px;}
+.bottle-cap-banner-text .bottle-cap-banner-title{text-align: center;font-size:40px;color:#fff;font-weight:var(--fontbold7);}
+.bottle-cap-banner-text .bottle-cap-banner-line{width:200px;height:1px;background: #fff;display: block;margin:2% auto;}
+.bottle-cap-banner-text .bottle-cap-banner-des{text-align: center;font-size:20px;color:#fff;}
+.bottle-cap-banner-text .bottle-cap-banner-txt{font-size:20px}
+.bottle-cap-banner-text .bottle-cap-banner-btn{margin-top:30px;display:flex;justify-content:center}
+.bottle-cap-banner-text .bottle-cap-banner-btn a{font-size:20px;border:1px solid #fff;padding:8px 35px}
+.bottle-cap-banner-text .bottle-cap-banner-btn a:hover{border-color:var(--color)}
+@media (max-width:1600px){.bottle-cap-banner-text .l-wrap{max-width:80%;}
+.bottle-cap-banner-text .bottle-cap-banner-title{font-size:2.5vw;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des{font-size:1.2vw;}
+.bottle-cap-banner-text .bottle-cap-banner-btn{margin-top:2vw;}
+.bottle-cap-banner-text .bottle-cap-banner-btn a{font-size:1.2vw;padding:.6vw 3vw}}
+@media (max-width:768px){.bottle-cap-banner-text .l-wrap{max-width:90%;padding:15px}
+.bottle-cap-banner-text .bottle-cap-banner-title{font-size:22px;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des{font-size:13px;}
+.bottle-cap-banner-text .bottle-cap-banner-btn{display:none}}
+@media (max-width:550px){.bottle-cap-banner-text .bottle-cap-banner-title{font-size:16px;}
+.bottle-cap-banner-text .l-wrap{padding:10px;}
+.bottle-cap-banner-text .bottle-cap-banner-txt,.bottle-cap-banner-text .bottle-cap-banner-des,.bottle-cap-banner-text .bottle-cap-banner-line{display: none;}}
+.swiper-slide>a::after{display:none}
+.pagesbanner .pagesbanner-animate.paper-box-banner{text-align:left;left:34%;width:fit-content}
+.pagesbanner .pagesbanner-animate.paper-box-banner .p1{font-size:2.5vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .p2{margin-left:10px;font-size:1.5vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .desc{font-size:1.2vw}
+.pagesbanner .pagesbanner-animate.paper-box-banner .desc span{margin-left:15px}
+
+.bottle-cap .kche-t125 .kche-t125-info{width:48%;padding-right:0}
+.bottle-cap .kche-t125 .kche-t125-img{width:48%}
+@media (max-width:768px){.bottle-cap .kche-t125 .kche-t125-info{width:100%}
+.bottle-cap .kche-t125 .kche-t125-img{width:100%}
+}
+
+.kche-t125.kche-t125-custom{margin-bottom:40px}
+@media (min-width:769px){.kche-t125.kche-t125-custom .kche-t125-img{max-width:500px;}
+.kche-t125.kche-t125-custom .kche-t125-info{flex:1;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-img{max-width:500px}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{flex:1;}}
+.kche-t125.kche-t125-custom .kche-t125-info h5 *{font-size:34px!important}
+.kche-t125.kche-t125-custom .kche-t125-info .kche-t125-des{font-size:19px;line-height:2;}
+.kche-t125.kche-t125-custom .kche-t125-more{margin-top:50px}
+.kche-t125.kche-t125-custom .kche-t125-more span{font-size:19px;padding:12px 30px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{line-height:2.3;font-size:19px;}
+.kche-t121.kche-t121-premium .kche-t121-item-top .kche-t121-info{line-height:2;font-size:19px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info .kche-t121-more{font-size:19px}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info .kche-t121-link{margin-top:auto}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info p:nth-last-child(2){margin-bottom:30px}
+.kche-t121.kche-t121-premium .kche-t121-item{align-items:initial}
+@media (max-width:1500px){.kche-t125.kche-t125-custom .kche-t125-info h5 *{font-size:32px!important}
+.kche-t125.kche-t125-custom .kche-t125-info .kche-t125-des{font-size:18px;}
+.kche-t125.kche-t125-custom .kche-t125-more span{font-size:18px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{line-height:2.2;font-size:17px;}
+.kche-t121.kche-t121-premium .kche-t121-item-top .kche-t121-info{line-height:2;font-size:17px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info .kche-t121-more{font-size:17px}}
+@media (max-width:1440px){.kche-t125.kche-t125-custom .kche-t125-info .kche-t125-des{font-size:17px;}
+.kche-t125.kche-t125-custom .kche-t125-more span{font-size:17px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{line-height:2.3;font-size:16px;}
+.kche-t121.kche-t121-premium .kche-t121-item-top .kche-t121-info{line-height:2;font-size:16px;}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info .kche-t121-more{font-size:16px}}
+@media (max-width:1280px){.kche-t125.kche-t125-custom .kche-t125-info h5 *{font-size:28px!important}
+.kche-t125.kche-t125-custom .kche-t125-info .kche-t125-des{font-size:16px;line-height:1.6}
+.kche-t125.kche-t125-custom .kche-t125-more{margin-top:30px}
+.kche-t125.kche-t125-custom .kche-t125-more span{font-size:16px;}}
+@media (max-width:768px){.kche-t125.kche-t125-custom .kche-t125-info h5 *{font-size:24px!important}
+.kche-t125.kche-t125-custom .kche-t125-more{margin-top:20px}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{line-height:1.6}
+.kche-t121.kche-t121-premium .kche-t121-item-top .kche-t121-info{line-height:1.6;}}
+.kche-t121.kche-t121-premium .kche-t121-item .kche-t121-info{display:flex;flex-direction:column;}
