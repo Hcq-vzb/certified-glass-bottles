@@ -1,0 +1,37 @@
+SEO VERIFICATION REPORT - https://www.certifiedglassbottles.com
+==================================================
+
+--- SITE-WIDE COUNTS ---
+Total pages: 1365
+Short descriptions (<50 chars): 0
+JSON-LD URL mismatches: 0
+Missing FAQPage schema: 0
+
+--- SAMPLE PAGE CHECKS ---
+  [PASS] index.html
+  [PASS] factory.html
+  [PASS] faq.html
+  [PASS] products.html
+  [PASS] bottle-cap/index.html
+  [PASS] bottle-cap/t-shape-wooden-bottle-cap.html
+  [PASS] blog/index.html
+  [PASS] blog/can-screw-caps-keep-wine-fresh-for-a-long-time-2580218.html
+  [PASS] liquor-bottles/spirits-bottles/750ml-gin-vodka-liquor-glass-bottle.html
+  [PASS] newslist-1.html
+
+--- MANUAL RICH RESULTS TEST (paste in browser) ---
+https://search.google.com/test/rich-results
+
+https://www.certifiedglassbottles.com/
+https://www.certifiedglassbottles.com/factory.html
+https://www.certifiedglassbottles.com/faq.html
+https://www.certifiedglassbottles.com/bottle-cap/t-shape-wooden-bottle-cap.html
+https://www.certifiedglassbottles.com/blog/can-screw-caps-keep-wine-fresh-for-a-long-time-2580218.html
+
+--- SEARCH CONSOLE ---
+https://search.google.com/search-console
+Check: Coverage, Core Web Vitals, Enhancements (Product, FAQ, Breadcrumb)
+
+--- PAGESPEED INSIGHTS ---
+https://pagespeed.web.dev/
+Test: https://www.certifiedglassbottles.com/

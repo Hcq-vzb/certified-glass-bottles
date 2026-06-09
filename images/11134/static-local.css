@@ -1,6 +1,9 @@
-/* Static local deployment: show images without lazy-load JS */
+/* Static local deployment: show above-fold images without lazy-load JS */
 img.lazy,.lazy-wrap img{opacity:1!important;visibility:visible!important}
 .lazy-load{display:none!important}
+
+/* Allow native lazy loading for below-fold images added by SEO script */
+img[loading="lazy"]{content-visibility:auto}
 
 /* Inner pages: keep header opaque so banner artwork cannot bleed through the logo */
 @media (min-width:1025px){

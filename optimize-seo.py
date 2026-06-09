@@ -5,9 +5,13 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+sys.path.insert(0, str(ROOT))
+
+from seo_keywords import resolve_pyramid_meta
 CONFIG_PATH = ROOT / "seo-config.json"
 REPORT_PATH = ROOT / "seo-audit-report.txt"
 
@@ -269,89 +273,19 @@ def optimize_page(text: str, rel: str, cfg: dict) -> tuple[str, list[str]]:
         new_desc = cfg["homepage"]["description"]
         new_keywords = cfg["homepage"]["keywords"]
         changes.append("homepage-seo")
-    elif rel_posix == "blog/index.html":
-        new_title = cfg["blog_index"]["title"]
-        new_desc = cfg["blog_index"]["description"]
-        new_keywords = cfg["blog_index"]["keywords"]
-        changes.append("blog-index-seo")
-    elif rel_posix.startswith("blog/") and rel_posix.endswith(".html") and "/page/" not in rel_posix:
-        blog_title = extract_blog_title(text, rel_posix)
-        if blog_title:
-            new_title = f"{blog_title}{templates['blog_title_suffix']}"
-            if len(new_desc) < 80 or new_desc.strip().endswith("?"):
-                new_desc = (
-                    f"{blog_title}.{templates['blog_description_suffix']}"
-                )[:160]
-            new_keywords = f"{blog_title.lower()}, bottle caps, packaging, KIWL"
-            changes.append("blog-seo")
-    elif "prodetails-name" in text or (
-        not rel_posix.endswith("/index.html")
-        and rel_posix.count("/") >= 1
-        and not rel_posix.startswith("showroom/")
-        and not rel_posix.startswith("blog/")
-    ):
-        name = extract_product_name(text, rel_posix)
-        if name:
-            new_title = templates["product_title"].format(name=name)
-            new_desc = templates["product_description"].format(name_lower=name.lower())
-            new_keywords = templates["product_keywords"].format(name_lower=name.lower())
-            changes.append("product-seo")
-    elif rel_posix.startswith("showroom/") and rel_posix.endswith("/index.html"):
-        folder = Path(rel_posix).parent.name
-        name = slug_to_title(folder)
-        new_title = templates["showroom_title"].format(name=name)
-        new_desc = templates["showroom_description"].format(name_lower=name.lower())
-        new_keywords = templates["showroom_keywords"].format(name_lower=name.lower())
-        changes.append("showroom-seo")
-    elif rel_posix in {
-        "sustainability.html",
-        "factory.html",
-        "faq.html",
-        "about-kiwl.html",
-        "about-us.html",
-        "contact-us.html",
-    }:
-        page_name = slug_to_title(Path(rel_posix).stem.replace("-", " "))
-        if page_name.lower().startswith("about"):
-            page_name = "About KIWL"
-        new_title = f"{page_name} | Spirits Glass Packaging Manufacturer - KIWL"
-        new_desc = (
-            f"Learn about {page_name.lower()} at KIWL, a leading China manufacturer of "
-            "spirits glass bottles, caps, stoppers and beverage packaging for global brands."
-        )
-        new_keywords = f"{page_name.lower()}, KIWL, spirits glass packaging, bottle caps"
+    elif rel_posix in cfg.get("static_pages", {}):
+        page_cfg = cfg["static_pages"][rel_posix]
+        new_title = page_cfg["title"]
+        new_desc = page_cfg["description"]
+        new_keywords = page_cfg.get("keywords", "")
         changes.append("static-page-seo")
-    elif rel_posix.endswith("/index.html") or (
-        rel_posix.endswith(".html") and rel_posix.count("/") == 0
-    ):
-        page_suffix = ""
-        page_m = re.search(r" - Page (\d+)$", old_title, re.I)
-        title_for_cat = old_title
-        if page_m:
-            page_suffix = f" - Page {page_m.group(1)}"
-            title_for_cat = old_title[: page_m.start()]
-        cat_name = extract_category_name(title_for_cat)
-        if rel_posix.startswith("newslist-"):
-            new_title = f"Packaging Industry News{page_suffix} | KIWL Blog"
-            new_desc = (
-                "Latest news and updates on spirits glass bottles, bottle caps and packaging "
-                "from KIWL, a leading China manufacturer and exporter."
-            )
-            new_keywords = "packaging news, bottle cap news, spirits glass, KIWL"
-            changes.append("news-seo")
-        elif rel_posix.startswith("showroomlist-"):
-            new_title = f"Product Showroom{page_suffix} | Spirits Glass Packaging - KIWL"
-            new_desc = (
-                "Browse KIWL product showroom for wholesale spirits glass bottles, caps, "
-                "stoppers and closures for global beverage brands."
-            )
-            new_keywords = "product showroom, spirits glass, wholesale packaging, KIWL"
-            changes.append("showroomlist-seo")
-        elif cat_name:
-            new_title = templates["category_title"].format(name=cat_name) + page_suffix
-            new_desc = templates["category_description"].format(name_lower=cat_name.lower())
-            new_keywords = templates["category_keywords"].format(name_lower=cat_name.lower())
-            changes.append("category-seo")
+    else:
+        pyramid = resolve_pyramid_meta(rel_posix, cfg, text, old_title)
+        if pyramid:
+            new_title = pyramid.get("title") or old_title
+            new_desc = pyramid.get("description") or new_desc
+            new_keywords = pyramid.get("keywords") or new_keywords
+            changes.append(f"pyramid-t{pyramid.get('tier', 0)}")
 
     new_title = new_title.replace("LIQUORPAC", cfg["brand"])
     if "LIQUORPAC" in old_title and "LIQUORPAC" not in new_title:

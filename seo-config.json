@@ -6,7 +6,8 @@
   "homepage": {
     "title": "Spirits Glass Bottles, Caps & Closures | KIWL Packaging Manufacturer",
     "description": "KIWL supplies wholesale glass liquor bottles, aluminium screw caps, stoppers and labels for spirits, wine and beverage brands. Exported to 70+ countries. Request a factory quote today.",
-    "keywords": "spirits glass bottles, liquor bottle caps, aluminium screw caps, wine bottle closures, bottle stoppers, wholesale packaging manufacturer, KIWL"
+    "keywords": "spirits glass bottles wholesale, liquor bottle caps manufacturer, aluminium screw caps wholesale, wine bottle closures supplier, bottle packaging manufacturer China, KIWL",
+    "h1": "Spirits Glass Bottles, Caps & Closures"
   },
   "blog_index": {
     "title": "Bottle Caps & Packaging Blog | Industry Guides - KIWL",
@@ -14,9 +15,9 @@
     "keywords": "bottle cap blog, wine screw cap guide, spirits packaging, glass bottle tips, KIWL"
   },
   "templates": {
-    "product_title": "{name} | Wholesale Manufacturer - KIWL",
-    "product_description": "Wholesale {name_lower} from KIWL, a China-based spirits and beverage packaging manufacturer. Custom OEM/ODM, competitive factory pricing, export to 70+ countries.",
-    "product_keywords": "{name_lower}, wholesale {name_lower}, China manufacturer, KIWL",
+    "product_title": "{name} | {tier3_primary} Wholesale - KIWL",
+    "product_description": "Wholesale {name_lower} — {tier3_primary} from KIWL. Custom OEM/ODM {tier2_name_lower}, competitive factory pricing and export to 70+ countries.",
+    "product_keywords": "{name_lower}, wholesale {name_lower}, {tier3_primary}, {tier2_primary}, China manufacturer, {brand}",
     "category_title": "{name} Wholesale | Custom Packaging - KIWL",
     "category_description": "Browse wholesale {name_lower} from KIWL. Professional manufacturer and exporter of spirits, wine and beverage packaging. Bulk orders, custom branding, worldwide shipping.",
     "category_keywords": "{name_lower}, wholesale {name_lower}, China supplier, KIWL",
@@ -24,18 +25,262 @@
     "showroom_description": "Explore {name_lower} solutions from KIWL. Wholesale glass bottles, caps and closures for liquor, wine and beverage brands worldwide.",
     "showroom_keywords": "{name_lower}, spirits glass packaging, wholesale, KIWL",
     "blog_title_suffix": " | KIWL Packaging Blog",
-    "blog_description_suffix": " Learn from KIWL, a leading spirits and beverage packaging manufacturer in China."
+    "blog_description_suffix": " Expert packaging guide from KIWL, China spirits and beverage packaging manufacturer.",
+    "subcategory_title": "{name} Wholesale | {primary} - KIWL",
+    "subcategory_description": "Wholesale {name_lower} and {primary} from KIWL. Custom OEM/ODM {tier2_primary}, bulk orders, factory-direct pricing and export to 70+ countries.",
+    "subcategory_keywords": "{name_lower}, wholesale {name_lower}, {primary}, {tier2_primary}, China manufacturer, {brand}"
   },
+  "keyword_pyramid": {
+    "tier1": {
+      "label": "Brand Head Terms",
+      "primary": "spirits glass bottles wholesale",
+      "secondary": [
+        "liquor bottle caps manufacturer",
+        "aluminium screw caps wholesale",
+        "wine bottle closures supplier",
+        "bottle packaging manufacturer China"
+      ]
+    },
+    "tier2_label": "Category Keywords",
+    "tier3_label": "Subcategory Keywords",
+    "tier2": {
+      "bottle-cap": {
+        "name": "Bottle Cap",
+        "primary": "bottle caps wholesale",
+        "secondary": ["aluminium screw caps", "ROPP caps", "wine screw caps", "GPI caps"],
+        "title": "Bottle Caps Wholesale | Aluminium Screw Caps - KIWL",
+        "description": "Wholesale bottle caps, aluminium screw caps, ROPP caps and wine closures from KIWL. Custom OEM/ODM for spirits, wine and beverage brands. Factory pricing, export to 70+ countries.",
+        "keywords": "bottle caps wholesale, aluminium screw caps, ROPP caps, wine bottle screw caps, GPI caps, China manufacturer, KIWL"
+      },
+      "liquor-bottles": {
+        "name": "Glass Bottles",
+        "primary": "glass liquor bottles wholesale",
+        "secondary": ["spirits glass bottles", "wine bottles wholesale", "vodka bottles", "whisky bottles"],
+        "title": "Glass Liquor Bottles Wholesale | Spirits Bottles - KIWL",
+        "description": "Wholesale glass liquor bottles, spirits bottles and wine bottles from KIWL. Custom shapes, embossing and bulk OEM for distilleries and beverage brands worldwide.",
+        "keywords": "glass liquor bottles wholesale, spirits glass bottles, wine bottles wholesale, vodka bottles, China glass bottle manufacturer, KIWL"
+      },
+      "bottle-stopper": {
+        "name": "Bottle Stopper",
+        "primary": "bottle stoppers wholesale",
+        "secondary": ["wine stoppers", "T-top corks", "synthetic corks", "glass stoppers"],
+        "title": "Bottle Stoppers Wholesale | Wine & Spirits Closures - KIWL",
+        "description": "Wholesale bottle stoppers, wine corks and T-top closures from KIWL. Premium sealing solutions for spirits, wine and olive oil brands with custom branding.",
+        "keywords": "bottle stoppers wholesale, wine stoppers, T-top corks, synthetic corks, spirits closures, KIWL"
+      },
+      "metal-label": {
+        "name": "Metal Label",
+        "primary": "metal labels for bottles",
+        "secondary": ["whisky labels", "vodka labels", "embossed metal labels", "waterproof labels"],
+        "title": "Metal Labels for Bottles | Custom Spirits Branding - KIWL",
+        "description": "Custom metal labels and embossed bottle labels from KIWL for whisky, vodka and wine brands. Waterproof, high-gloss finishes and OEM bulk production.",
+        "keywords": "metal labels for bottles, whisky labels, vodka labels, embossed bottle labels, custom spirits branding, KIWL"
+      },
+      "paper-box": {
+        "name": "Paper Box",
+        "primary": "paper tube boxes wholesale",
+        "secondary": ["gift packaging tubes", "rigid paper boxes", "custom paper packaging", "spirits gift boxes"],
+        "title": "Paper Tube Boxes Wholesale | Custom Gift Packaging - KIWL",
+        "description": "Wholesale paper tube boxes and rigid gift packaging from KIWL for spirits, wine and premium beverage brands. Custom logo design and bulk manufacturing.",
+        "keywords": "paper tube boxes wholesale, gift packaging tubes, rigid paper boxes, spirits gift boxes, custom packaging, KIWL"
+      }
+    },
+    "tier3": {
+      "bottle-cap/aluminium-caps": {
+        "name": "Aluminium Caps",
+        "primary": "aluminium screw caps wholesale",
+        "keywords": "aluminium screw caps wholesale, ROPP aluminium caps, spirits bottle caps, wine aluminium closures, KIWL"
+      },
+      "bottle-cap/screw-cap": {
+        "name": "Screw Cap",
+        "primary": "wine bottle screw caps",
+        "keywords": "wine bottle screw caps, screw top wine closures, aluminium screw caps, beverage screw caps, KIWL"
+      },
+      "bottle-cap/gpi-cap": {
+        "name": "GPI Cap",
+        "primary": "GPI bottle caps",
+        "keywords": "GPI bottle caps, GPI closures, glass packaging institute caps, spirits GPI caps, KIWL"
+      },
+      "bottle-cap/guala-cap": {
+        "name": "Guala Cap",
+        "primary": "Guala bottle caps",
+        "keywords": "Guala bottle caps, tamper evident caps, spirits Guala closures, premium bottle caps, KIWL"
+      },
+      "bottle-cap/plastic-caps": {
+        "name": "Plastic Caps",
+        "primary": "plastic bottle caps wholesale",
+        "keywords": "plastic bottle caps wholesale, flip top caps, sprayer caps, beverage plastic closures, KIWL"
+      },
+      "bottle-cap/oil-cap": {
+        "name": "Oil Cap",
+        "primary": "olive oil bottle caps",
+        "keywords": "olive oil bottle caps, oil pourer caps, ROPP oil caps, edible oil closures, KIWL"
+      },
+      "bottle-cap/bottle-capsule": {
+        "name": "Bottle Capsule",
+        "primary": "bottle capsules wholesale",
+        "keywords": "bottle capsules wholesale, wine capsules, foil capsules, spirits bottle capsules, KIWL"
+      },
+      "bottle-cap/ring-pulll-cap": {
+        "name": "Ring Pull Cap",
+        "primary": "ring pull bottle caps",
+        "keywords": "ring pull bottle caps, easy open caps, beverage ring pull closures, KIWL"
+      },
+      "liquor-bottles/spirits-bottles": {
+        "name": "Spirits Bottles",
+        "primary": "spirits glass bottles wholesale",
+        "keywords": "spirits glass bottles wholesale, vodka bottles, gin bottles, whisky glass bottles, KIWL"
+      },
+      "liquor-bottles/wine-bottles": {
+        "name": "Wine Bottles",
+        "primary": "wine bottles wholesale",
+        "keywords": "wine bottles wholesale, bordeaux bottles, burgundy bottles, custom wine glass bottles, KIWL"
+      },
+      "liquor-bottles/olive-oil-glass-bottle": {
+        "name": "Olive Oil Glass Bottle",
+        "primary": "olive oil glass bottles wholesale",
+        "keywords": "olive oil glass bottles wholesale, dark glass oil bottles, edible oil bottles, KIWL"
+      },
+      "liquor-bottles/water-bottle": {
+        "name": "Water Bottle",
+        "primary": "glass water bottles wholesale",
+        "keywords": "glass water bottles wholesale, beverage glass bottles, mineral water bottles, KIWL"
+      },
+      "liquor-bottles/borosilicate-bottle": {
+        "name": "Borosilicate Bottle",
+        "primary": "borosilicate glass bottles",
+        "keywords": "borosilicate glass bottles, heat resistant glass bottles, premium glass bottles, KIWL"
+      },
+      "liquor-bottles/large-wine-bottle": {
+        "name": "Large Wine Bottle",
+        "primary": "large wine bottles wholesale",
+        "keywords": "large wine bottles wholesale, magnum bottles, big format wine bottles, KIWL"
+      }
+    },
+    "tier4": {
+      "label": "Product Long-tail"
+    },
+    "tier5": {
+      "label": "Content Long-tail",
+      "blog_keywords": "{topic}, {related}, bottle caps guide, spirits packaging tips, {brand}"
+    },
+    "tier6": {
+      "label": "Showroom Discovery"
+    }
+  },
+  "static_pages": {
+    "factory.html": {
+      "title": "Our Factory & Production Facilities | KIWL Packaging",
+      "description": "Explore KIWL's glass bottle and aluminium cap manufacturing factory in Jiangsu, China. ISO-certified lines, custom OEM/ODM, quality control and export to 70+ countries.",
+      "keywords": "KIWL factory, glass bottle manufacturer, spirits packaging factory, China bottle cap production"
+    },
+    "faq.html": {
+      "title": "FAQs | Spirits Glass Packaging - KIWL",
+      "description": "Answers to common questions about KIWL wholesale glass bottles, aluminium screw caps, stoppers and packaging. MOQ, lead times, quality assurance, shipping and custom OEM services.",
+      "keywords": "KIWL FAQ, bottle cap MOQ, glass bottle wholesale questions, packaging manufacturer FAQ"
+    },
+    "about-kiwl.html": {
+      "title": "About KIWL | Spirits Glass Packaging Manufacturer",
+      "description": "KIWL is a China-based manufacturer of spirits glass bottles, aluminium screw caps, stoppers and labels. Serving distilleries, wineries and beverage brands in 70+ countries since 2014.",
+      "keywords": "about KIWL, spirits glass packaging company, China bottle manufacturer"
+    },
+    "about-us.html": {
+      "title": "About Us | KIWL Spirits Glass Packaging",
+      "description": "Learn about KIWL's team, history and mission as a global supplier of spirits glass bottles, bottle caps, stoppers and beverage packaging solutions.",
+      "keywords": "KIWL about us, packaging manufacturer China, spirits glass supplier"
+    },
+    "contact-us.html": {
+      "title": "Contact KIWL | Request a Packaging Quote",
+      "description": "Contact KIWL for wholesale glass bottles, aluminium caps and closures. Request factory quotes, samples and custom OEM packaging for spirits, wine and beverage brands.",
+      "keywords": "contact KIWL, bottle cap quote, glass bottle inquiry, packaging manufacturer contact"
+    },
+    "sustainability.html": {
+      "title": "Sustainability | Eco-Friendly Glass Packaging - KIWL",
+      "description": "KIWL's commitment to sustainable glass bottle and cap manufacturing. Recyclable materials, efficient production and responsible packaging for spirits and beverage brands.",
+      "keywords": "sustainable glass packaging, eco-friendly bottle caps, recyclable spirits bottles"
+    },
+    "inquiry.html": {
+      "title": "Request a Quote | KIWL Packaging Inquiry",
+      "description": "Submit your wholesale inquiry for glass bottles, aluminium screw caps, stoppers or custom packaging. KIWL responds with factory pricing and OEM options for global brands.",
+      "keywords": "KIWL inquiry, packaging quote request, wholesale bottle cap order"
+    },
+    "decorating-finishing.html": {
+      "title": "Decorating & Finishing | Custom Bottle Branding - KIWL",
+      "description": "KIWL decorating and finishing services for glass bottles and caps: printing, labeling, embossing and surface treatments for premium spirits and wine packaging.",
+      "keywords": "bottle decorating, glass bottle finishing, custom spirits packaging branding"
+    },
+    "in-house-molding.html": {
+      "title": "In-House Molding | Custom Cap & Closure Production - KIWL",
+      "description": "KIWL in-house molding capabilities for custom bottle caps, closures and plastic inserts. Precision tooling and rapid prototyping for spirits and beverage packaging.",
+      "keywords": "in-house molding, custom bottle cap molding, closure manufacturing KIWL"
+    },
+    "lean-manufacturing.html": {
+      "title": "Lean Manufacturing | Efficient Packaging Production - KIWL",
+      "description": "KIWL applies lean manufacturing to glass bottle and cap production for faster lead times, lower waste and consistent quality across bulk export orders.",
+      "keywords": "lean manufacturing packaging, efficient bottle cap production, KIWL factory"
+    },
+    "quality-management.html": {
+      "title": "Quality Management | ISO Packaging Standards - KIWL",
+      "description": "KIWL quality management covers incoming inspection, in-process checks and final QC for glass bottles, aluminium caps and closures shipped worldwide.",
+      "keywords": "packaging quality control, ISO bottle manufacturing, KIWL quality management"
+    },
+    "custom-lid-label-paper-box.html": {
+      "title": "Custom Lid, Label & Paper Tube | KIWL Packaging",
+      "description": "Custom lids, waterproof labels and paper tube boxes from KIWL for spirits, whisky, vodka and wine brands. Full OEM design and bulk manufacturing.",
+      "keywords": "custom bottle lid, whisky label, paper tube box, spirits packaging"
+    },
+    "manufacturing.html": {
+      "title": "Manufacturing Capabilities | KIWL Packaging",
+      "description": "Overview of KIWL manufacturing for glass bottles, aluminium screw caps, stoppers and labels. Custom OEM/ODM, decorating, molding and quality-controlled export.",
+      "keywords": "packaging manufacturing, glass bottle production, bottle cap factory China"
+    },
+    "packaging.html": {
+      "title": "Packaging Services | Spirits & Beverage Solutions - KIWL",
+      "description": "KIWL packaging services include custom glass bottles, caps, stoppers, labels and paper boxes for spirits, wine and beverage brands with worldwide shipping.",
+      "keywords": "spirits packaging services, beverage packaging solutions, wholesale glass bottles"
+    },
+    "delivery-warehousing.html": {
+      "title": "Delivery & Warehousing | Global Packaging Logistics - KIWL",
+      "description": "KIWL delivery and warehousing for wholesale glass bottles and caps. FOB, CIF and express options with secure storage and on-time export to 70+ countries.",
+      "keywords": "packaging delivery, bottle cap warehousing, KIWL logistics export"
+    },
+    "project-management.html": {
+      "title": "Project Management | Custom Packaging Projects - KIWL",
+      "description": "KIWL project management for custom spirits and beverage packaging from design to delivery. Dedicated support for OEM bottle, cap and label programs.",
+      "keywords": "packaging project management, custom OEM bottle project, KIWL service"
+    },
+    "service.html": {
+      "title": "Services | Wholesale Packaging Support - KIWL",
+      "description": "KIWL services include custom packaging design, manufacturing, quality control, warehousing and global delivery for spirits, wine and beverage brands.",
+      "keywords": "packaging services, KIWL wholesale support, bottle cap OEM service"
+    },
+    "media.html": {
+      "title": "Media & News | KIWL Packaging Updates",
+      "description": "KIWL media center with packaging industry news, product updates and company announcements for spirits glass bottles, caps and beverage packaging.",
+      "keywords": "KIWL news, packaging industry media, spirits glass updates"
+    },
+    "products.html": {
+      "title": "Products | Wholesale Glass Bottles & Caps - KIWL",
+      "description": "Browse KIWL wholesale products: spirits glass bottles, aluminium screw caps, stoppers, metal labels and paper boxes for global beverage brands.",
+      "keywords": "wholesale glass bottles, bottle caps products, spirits packaging catalog KIWL"
+    }
+  },
+  "blog_page_description": "Page {page} of the KIWL packaging blog with expert guides on wine screw caps, spirits glass bottles, aluminium closures and beverage packaging trends.",
   "same_as": [
     "https://www.youtube.com/watch?v=jJIceDZ-JtM",
     "https://www.certifiedglassbottles.com"
   ],
+  "social": {
+    "og_site_name": "Jiangsu KIWL Machinery Manufacturing Group Co., Ltd.",
+    "og_locale": "en_US",
+    "twitter_site": "@KIWL"
+  },
   "primary_keywords": [
-    "spirits glass bottles",
-    "liquor bottle caps",
-    "aluminium screw caps",
+    "spirits glass bottles wholesale",
+    "liquor bottle caps manufacturer",
+    "aluminium screw caps wholesale",
     "wine bottle screw caps",
-    "bottle stoppers",
+    "bottle stoppers wholesale",
     "ROPP caps",
     "GPI caps",
     "glass liquor bottles wholesale",

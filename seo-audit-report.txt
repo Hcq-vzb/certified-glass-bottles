@@ -7,35 +7,39 @@ Junk page stubs: [',.html', 'uploads/202211134-aluminum-cap-screw-bottle-roppcap
 --- BEFORE ---
 pages: 1365
 missing_canonical: 0
-long_title: 0
+long_title: 1
 long_desc: 0
-short_desc: 40
+short_desc: 0
 noindex_pages: 497
 zero_price_jsonld: 0
 corrupted_meta: 0
-relative_jsonld: 1324
+relative_jsonld: 0
+jsonld_url_mismatch: 0
+missing_faq_schema: 0
 sitemap_urls: 868
 
 --- AFTER ---
 pages: 1365
 missing_canonical: 0
-long_title: 0
+long_title: 1
 long_desc: 0
-short_desc: 40
+short_desc: 0
 noindex_pages: 497
 zero_price_jsonld: 0
 corrupted_meta: 0
-relative_jsonld: 1324
+relative_jsonld: 0
+jsonld_url_mismatch: 0
+missing_faq_schema: 0
 sitemap_urls: 868
 
 --- CHANGES ---
-HTML files modified: 165/1365
+HTML files modified: 5/1365
 {
   "noindex": 4,
-  "title-desc-trim": 4,
-  "blog-desc-from-title": 13,
-  "json-ld-fix": 13,
-  "blog-json-ld-sync": 148,
+  "short-desc-fix": 4,
+  "social-meta": 4,
+  "homepage-meta": 1,
+  "title-desc-trim": 1,
   "sitemap-regenerated": 1
 }
 
@@ -44,8 +48,12 @@ HTML files modified: 165/1365
 2. noindex,follow on showroom tag pages and uploads/*.html
 3. Removed zero-price offers from JSON-LD
 4. Absolute URLs in JSON-LD relative paths
-5. Title trimmed to <=60 chars, description to <=160 chars
-6. Blog meta descriptions from first paragraph where possible
-7. Organization sameAs on homepage
-8. Full sitemap regeneration (excluding noindex pages)
-9. Missing canonical tags added
+5. JSON-LD URLs synced with canonical
+6. Title trimmed to <=60 chars, description to >=50 and <=160 chars
+7. Static page meta from seo-config.json static_pages
+8. Blog meta descriptions from first paragraph where possible
+9. FAQPage schema on faq.html
+10. Organization sameAs on homepage
+11. H1/nav/alt/lazy-loading improvements
+12. Full sitemap regeneration (excluding noindex pages)
+13. Missing canonical tags added
